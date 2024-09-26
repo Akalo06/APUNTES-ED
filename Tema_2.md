@@ -12,12 +12,16 @@ En este tema realizaremos las siguientes actividades:
 ## Psos del proceso de creacion de aplicación
 
 
-Editar codigo fuente  | Compliar el codigo fuente | Ejecutar el codigo
-----------------------|---------------------------|-------------------
-- Elegimos editor     | - Elegimos compilador  |- Buscamos el archivo ejecutable
-- Abrimos editor      | - Le pasamos el codigo fuente| - Ejecutamos el archivo
-- Escribimos codigo   |                           |
-- Guardamos codigo    |                           |
+|Editar codigo fuente  | Compliar el codigo fuente | Ejecutar el codigo
+|----------------------|---------------------------|-------------------
+|- Elegimos editor     | - Elegimos compilador     |- Buscamos el archivo ejecutable
+|- Abrimos editor      | - Le pasamos el codigo fuente| - Ejecutamos el archivo
+|- Escribimos codigo   | - Ejecutamos el compilador|
+|- Guardamos codigo    |                           |
 
+Tareas por realiar
 
+-[] Editar
+-[] Compilar
+-[] Ejecutar
 
