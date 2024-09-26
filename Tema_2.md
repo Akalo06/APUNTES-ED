@@ -1,4 +1,4 @@
-# Tema 2
+4# Tema 2
 
 En este tema realizaremos las siguientes actividades:
 
@@ -21,7 +21,7 @@ En este tema realizaremos las siguientes actividades:
 
 Tareas por realiar
 
-- [x] Editar
+- [x] ~~Editar~~
 - [ ] Compilar
 - [ ] Ejecutar
 
