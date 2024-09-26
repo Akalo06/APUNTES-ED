@@ -21,7 +21,7 @@ En este tema realizaremos las siguientes actividades:
 
 Tareas por realiar
 
--[ ] Editar
--[ ] Compilar
--[ ] Ejecutar
+- [ ] Editar
+- [ ] Compilar
+- [ ] Ejecutar
 
